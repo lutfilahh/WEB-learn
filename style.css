@@ -1,0 +1,37 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+.header {
+    background-color: #640178;
+    display: flex;
+    height: 70px;
+}
+
+.title {
+    width: 30%;
+}
+
+.title-text {
+    color: white;
+    justify-content: center;
+    margin: 16px;  
+}
+
+.subtitle {
+    width: 100%;
+}
+
+.ul-head {
+    display: flex;
+    justify-content: right;
+    margin: 20px;
+}
+
+.list-head {
+    list-style-type: none;
+    padding: 5px;
+    margin-left: 5px;
+}
